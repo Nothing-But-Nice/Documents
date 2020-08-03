@@ -1,2 +1,2 @@
-# Documents
-General Guild Documents
+# General Documents
+* [Tradeskills](Tradeskills.md)
