@@ -11,7 +11,7 @@ Raid ticks will be taken at the start, every 30 minutes and the end of a raid on
 
 BRV (DKP Earned Per Tick) | 2
 --|--
-&nbsp; | DKP Values
+&nbsp; | **DKP Values**
 **Minimum Bid** | 20
 **Max Main Bid** | 250
 **Max Bid If <40% RA** | 30
