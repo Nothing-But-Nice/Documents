@@ -1,6 +1,6 @@
 # Nothing But Nice Guild Charter
 
-## Mission Statement:
+## Mission Statement
 
 Our primary objective at Nothing but Nice is to effectively clear content with good vibes and a positive environment. Loot comes and goes but a strong sense of community and friendship outlasts any game and is the core foundation we are trying to establish. We want to be a place of diversity for any kind of player who is willing to put forward an effort to become better and maintain a positive attitude. Between the more experienced veterans of EQ and the new player experiencing a TLP for the first time, harboring an environment of learning and moving forward together will maintain a strong guild foundation and great experiences for years to come.
 
@@ -12,7 +12,7 @@ Loot Rules can be found in discord channel: **#dkp-rules-loot-info**
 
 Recruit and App info can be found in discord channel: **#recruit-and-app-info**
 
-## Leadership Approach:
+## Leadership Approach
 The Nothing But Nice community has worked together across multiple servers and multiple games. As such, we have found leading by council is the most effective way to go. Our Guild leader and officers work hand and hand on policy. Nothing is absolute and we always welcome constructive criticism to the leadership team. While we do our best in our delivery of information to the team, we expect the same in return. 
 
 ## Aradune Goals
