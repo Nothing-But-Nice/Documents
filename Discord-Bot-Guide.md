@@ -1,4 +1,4 @@
-# Ak'Zam - Item Search & Best in Slot lookup
+# Ak'Zam - !zam !bis
 
 ## Item Search
 ```
