@@ -22,3 +22,7 @@ Example:
 !bis ogre warrior chest
 ```
 
+# Muting the bot channel
+Since the bot command channel can tend to be a bit spammy, you may want to `mute` it. You can do so by `right clicking` on the channel, navigating to `Mute Channel` and deciding how long you want to mute it for.
+
+![Mute Discord Channel](images/mutechannel.png)
