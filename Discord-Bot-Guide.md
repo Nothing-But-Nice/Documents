@@ -1,4 +1,5 @@
 # Ak'Zam - !zam !bis
+***Ak'Zam*** will lookup specific items, and help you search for best in slot gear. These bot commands link to everquest.allakhazam.com which has a lot of advertisements. If you want to avoid Ad's we recommend you install [AdBlock](https://getadblock.com/).
 
 ## Item Search
 ```
@@ -20,3 +21,4 @@ Example:
 ```
 !bis ogre warrior chest
 ```
+
