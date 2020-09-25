@@ -20,8 +20,7 @@ BRV (DKP Earned Per Tick) | 2
 
 ### Important Notes:
 * <40% 30-Day RA FM: Max Bid is equal to 15x BRV
-* <10% 30-Day RA FM: Bids as an applicant
-* Applicants may bid min bid. They cannot outbid or win over a main member with higher than 10% RA. Currently Alts & FnF may not bid.
+* Currently Apps, Alts & FnF may not bid.
 
 ## WHERE DO I SUBMIT BIDS?
 https://nbn.opendkp.com/#/bid - All bids will be submitted via the web tool. These are NOT viewable by anyone, even the officers, until the bids are exposed to everyone. Once the auction is over, every bid will be viewable. In the event the bid tool is unavailable (it is hosted through AWS), bids will be taken by senior officers. We do not expect this to happen often, if ever.
