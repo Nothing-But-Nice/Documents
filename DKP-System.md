@@ -14,7 +14,7 @@ BRV (DKP Earned Per Tick) | 2
 --|--
 &nbsp; | **DKP Values**
 **Minimum Bid** | 20
-**Max Main Bid** | 250
+**Max Main Bid** | 200
 **Max Bid If <40% RA** | 30
 **Expansion DKP Cap** | 500
 
