@@ -5,7 +5,7 @@
 **BRV (DKP Earned Per Tick)** | **Base Raid Value = 2**	| **2** | **&nbsp;**
 &nbsp; | **xBRV** | **DKP Values** | &nbsp;
 Minimum Bid	| 10 | 20 | &nbsp;
-Max Main Bid | 125 | 250 | &nbsp;
+Max Main Bid | 100 | 200 | &nbsp;
 Max Bid If <40% RA | 15 | 30 | &nbsp;
 Expansion DKP Cap | 250	| 500 | &nbsp;
 Officer Requested Main Change Penalty| 0 xBRV | 0 DKP | &nbsp;
