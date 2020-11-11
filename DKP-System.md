@@ -19,7 +19,7 @@ BRV (DKP Earned Per Tick)| 4
 **Expansion DKP Cap** | 1000
 
 ### Important Notes:
-* <40% 30-Day RA FM: Max Bid is equal to 15x BRV
+* <40% 30-Day RA FM: Max Bid is equal to 20x BRV
 * Currently Apps, Alts & FnF may not bid.
 
 ## WHERE DO I SUBMIT BIDS?
