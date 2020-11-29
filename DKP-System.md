@@ -52,8 +52,28 @@ Swan 		bids 30
 Swan wins the tie due to higher attendance. Swan pays 30 DKP.
 ```
 
+Example Three:
+```
+Two of the same item are being bid out:
+Barudin 	bids 20
+Tanadien 	bids 40
+Swan 		bids 50
+
+Swan wins at 41 DKP. Tana wins at 40 DKP.
+```
+
+Example Four:
+```
+Two of the same item are being bid out:
+Barudin 	bids 20
+Tanadien 	bids 40
+Swan 		bids 40
+
+Swan wins at 40 DKP. Tana wins at 40 DKP.
+```
+
 ## WHAT HAPPENS WHEN NO ONE BIDS ON AN ITEM?
-Any item that is not bid upon will be rolled to all toons present in the raid. You may roll on (1) character as “need” to win and receive the item for free. It does not matter if this toon is an Alt, Main, FnF or Recruit. 
+Any item that is not bid upon will be rolled to all toons present in the raid. You may roll on (1) character as “need” to win and receive the item for free. It does not matter if this toon is an Alt, Main, FnF or Recruit. Please note once you roll on (1) toon, that is the only toon you may roll on items for that zone. The next zone this resets and you can pick a new toon.
 
 If you loot an item you cannot use you will be charged x55 BRV. On raids, auto-loot no drop should be off and you should confirm your loot before accepting.
 
