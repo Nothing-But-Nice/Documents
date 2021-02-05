@@ -10,13 +10,13 @@ Raid ticks will be taken at the start, every 30 minutes, and the end of a raid o
 
 
 
-BRV (DKP Earned Per Tick)| 4
+BRV (DKP Earned Per Tick)| 7
 --|--
 &nbsp; | **DKP Values**
-**Minimum Bid** | 40
-**Max Main Bid** | 500
-**Max Bid If <40% RA** | 80
-**Expansion DKP Cap** | 1000
+**Minimum Bid** | 50
+**Max Main Bid** | 875
+**Max Bid If <40% RA** | 140
+**Expansion & Monthly DKP Cap** 1750
 
 ### Important Notes:
 * <40% 30-Day RA FM: Max Bid is equal to 20x BRV
@@ -145,7 +145,7 @@ I wanted to thank all of the contributions from various guilds’ DKP systems th
 
 # TL;DR
 * DKP is earned every ½ hour. 
-* BRV is the DKP earned per raid tick. For Velious it is 4 dkp per tick.
+* BRV is the DKP earned per raid tick. For Luclin its 7 dkp per tick.
 * Everyone bids using https://nbn.opendkp.com/#/bid
 * Whoever wins the bid pays +1 over the second highest bid. In the event of a tie you pay the bid amount.
 * All bids are shown after bidding period has ended.
