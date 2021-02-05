@@ -16,7 +16,7 @@ BRV (DKP Earned Per Tick)| 7
 **Minimum Bid** | 50
 **Max Main Bid** | 875
 **Max Bid If <40% RA** | 140
-**Expansion & Monthly DKP Cap** 1750
+**Expansion & Monthly DKP Cap** | 1750
 
 ### Important Notes:
 * <40% 30-Day RA FM: Max Bid is equal to 20x BRV
