@@ -113,8 +113,8 @@ We understand people may want to change classes to keep the game enjoyable. We a
 Main Change Type | DKP Cost
 --|--
 Officer Requested Main Change Penalty | 0 DKP (Always)
-Approved Main Change Penalty | 525 DKP (Luclin)
-Unapproved Main Change Penalty |1050 DKP (Luclin)
+Approved Main Change Penalty | 1050 DKP (PoP)
+Unapproved Main Change Penalty |2100 DKP (PoP)
 
 ### Unapproved:
 * 80% DKP Charge or 150x BRV whichever is higher, no exceptions. Officer's decision if a new app is required.
