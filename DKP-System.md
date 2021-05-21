@@ -10,17 +10,22 @@ Raid ticks will be taken at the start, every 30 minutes, and the end of a raid o
 
 
 
-BRV (DKP Earned Per Tick)| 7
+BRV (DKP Earned Per Tick)| 14 (PoP)
 --|--
 &nbsp; | **DKP Values**
 **Minimum Bid** | 50
-**Max Main Bid** | 875
-**Max Bid If <40% RA** | 140
+**Max Main Bid** | 2100
+**Max Bid If <40% RA** | 350
+**Max Bid ALT** | 700
 **Expansion & Monthly DKP Cap** | 1750
 
 ### Important Notes:
-* <40% 30-Day RA FM: Max Bid is equal to 20x BRV
-* Currently Apps, Alts & FnF may not bid.
+* <40% 30-Day RA FM: Max Bid is equal to 25x BRV
+* - T1 - Mains
+* - T2 - Alts in raid only 
+* - T3 - FnF/Recruits
+* - T4 - Items are Randomed. One Character alt or main per person may roll need on the item. Only one character may roll per boss. 
+
 
 ## WHERE DO I SUBMIT BIDS?
 https://nbn.opendkp.com/#/bid - All bids will be submitted via the web tool. These are NOT viewable by anyone, even the officers, until the bids are exposed to everyone. Once the auction is over, every bid will be viewable. In the event the bid tool is unavailable (it is hosted through AWS), bids will be taken by senior officers. We do not expect this to happen often, if ever.
@@ -73,12 +78,13 @@ Swan wins at 40 DKP. Tana wins at 40 DKP.
 ```
 
 ## WHAT HAPPENS WHEN NO ONE BIDS ON AN ITEM?
-Any item that is not bid upon will be rolled to all toons present in the raid. You may roll on (1) character as “need” to win and receive the item for free. It does not matter if this toon is an Alt, Main, FnF or Recruit. Please note once you roll on (1) toon, that is the only toon you may roll on items for that zone. The next zone this resets and you can pick a new toon.
+Any item that is not bid upon will be rolled to all toons present in the raid. You may roll on (1) character as “need” to win and receive the item for free. It does not matter if this toon is an Alt, Main, FnF or Recruit. Please note once you roll on (1) toon.
 
 If you loot an item you cannot use you will be charged x55 BRV. On raids, auto-loot no drop should be off and you should confirm your loot before accepting.
 
 ## WHAT HAPPENS ON TIE BIDS?
 Tie items will be handed out based upon (60) day attendance. If those are a tie, refer to (30) day and then (90) day. If all those match, the item will be randomed. 
+If alts tie bid they will be randomed off. This is due to the way ALT attendance is currently tracked within the DKP system.
 
 ## CLASS AND SPECIAL ITEMS
 Special high value items, Class items and/or tradeable items, such as Blade of Carnage, will be officer awarded for minimum bid. This list will be posted before the expansion and may be updated at any time. This does not apply to Trak BP or VS Legs.
@@ -137,7 +143,7 @@ At this time there is no intention to have any kind of Second Main or PALT polic
 * If the system is being abused, the rules will be changed to address this. Individual members may be counseled by officers as well. The goal of this system is for the guild to be successful and not to screw over your own guildmates. We do not expect this to be an issue. 
 * DKP penalties may be given out for general non-compliance or intentional harm caused to the raid. We do not expect this to be an issue.
 * These rules are a guideline. If a situation arises that does not fit this mold, two things will happen: An officer ruling will remedy the situation and the rules will be changed to accommodate the issue.
-* If you have any questions or concerns, please feel free to PM **Barudin**, **Lvya** or **Swan**.
+* If you have any questions or concerns, please feel free to PM **Barudin**, **Bellan** or **Swan**.
 
 
 # A SPECIAL THANKS!
@@ -145,7 +151,7 @@ I wanted to thank all of the contributions from various guilds’ DKP systems th
 
 # TL;DR
 * DKP is earned every ½ hour. 
-* BRV is the DKP earned per raid tick. For Luclin its 7 dkp per tick.
+* BRV is the DKP earned per raid tick. For PoP it is 14 DKP per tick.
 * Everyone bids using https://nbn.opendkp.com/#/bid
 * Whoever wins the bid pays +1 over the second highest bid. In the event of a tie you pay the bid amount.
 * All bids are shown after bidding period has ended.
