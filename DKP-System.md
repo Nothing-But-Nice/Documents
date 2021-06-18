@@ -24,8 +24,8 @@ BRV (DKP Earned Per Tick)| 14 (PoP)
 * - T1 - Mains
 * - T2 - Alts in raid only 
 * - T3 - FnF/Recruits
-* - T4 - Items are Randomed. One Character alt or main per person may roll need on the item. Only one character may roll per boss. 
-
+* - T4 - Alts outside raid (must be at AoC logged in, ready to go)
+**If no bids at all - Items are Randomed. One Character alt or main per person may roll need on the item. Only one character may roll per boss. This character must be in raid.**
 
 ## WHERE DO I SUBMIT BIDS?
 https://nbn.opendkp.com/#/bid - All bids will be submitted via the web tool. These are NOT viewable by anyone, even the officers, until the bids are exposed to everyone. Once the auction is over, every bid will be viewable. In the event the bid tool is unavailable (it is hosted through AWS), bids will be taken by senior officers. We do not expect this to happen often, if ever.
