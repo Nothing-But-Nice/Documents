@@ -84,7 +84,7 @@ If you loot an item you cannot use you will be charged x55 BRV. On raids, auto-l
 
 ## WHAT HAPPENS ON TIE BIDS?
 Tie items will be handed out based upon (60) day attendance. If those are a tie, refer to (30) day and then (90) day. If all those match, the item will be randomed. 
-If alts tie bid they will be randomed off. This is due to the way ALT attendance is currently tracked within the DKP system.
+If alts tie bid loot will be awarded based on mains raid attendance.
 
 ## CLASS AND SPECIAL ITEMS
 Special high value items, Class items and/or tradeable items, such as Blade of Carnage, will be officer awarded for minimum bid. This list will be posted before the expansion and may be updated at any time. This does not apply to Trak BP or VS Legs.
