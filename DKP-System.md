@@ -80,7 +80,7 @@ Swan wins at 40 DKP. Tana wins at 40 DKP.
 ## WHAT HAPPENS WHEN NO ONE BIDS ON AN ITEM?
 Any item that is not bid upon will be rolled to all toons present in the raid. You may roll on (1) character as “need” to win and receive the item for free. It does not matter if this toon is an Alt, Main, FnF or Recruit. Please note once you roll on (1) toon.
 
-If you loot an item you cannot use you will be charged x55 BRV. On raids, auto-loot no drop should be off and you should confirm your loot before accepting.
+If you loot an item you cannot use you will be charged based on the avg BRV of two weeks of raiding. Historically this was x55 brv (velious/luclin) but it is lower now. On raids, auto-loot no drop should be off and you should confirm your loot before accepting.
 
 ## WHAT HAPPENS ON TIE BIDS?
 Tie items will be handed out based upon (60) day attendance. If those are a tie, refer to (30) day and then (90) day. If all those match, the item will be randomed. 
