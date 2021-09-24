@@ -10,14 +10,14 @@ Raid ticks will be taken at the start, every 30 minutes, and the end of a raid o
 
 
 
-BRV (DKP Earned Per Tick)| 14 (PoP)
+BRV (DKP Earned Per Tick)| 28 (GoD)
 --|--
 &nbsp; | **DKP Values**
-**Minimum Bid** | 50
-**Max Main Bid** | 2100
-**Max Bid If <40% RA** | 350
-**Max Bid ALT** | 700
-**Expansion & Monthly DKP Cap** | 3500
+**Minimum Bid** | 75
+**Max Main Bid** | 4200
+**Max Bid If <40% RA** | 700
+**Max Bid ALT** | 1400
+**Expansion & Monthly DKP Cap** | 7000
 
 ### Important Notes:
 * <40% 30-Day RA FM: Max Bid is equal to 25x BRV
@@ -113,8 +113,8 @@ We understand people may want to change classes to keep the game enjoyable. We a
 Main Change Type | DKP Cost
 --|--
 Officer Requested Main Change Penalty | 0 DKP (Always)
-Approved Main Change Penalty | 1050 DKP (PoP)
-Unapproved Main Change Penalty |2100 DKP (PoP)
+Approved Main Change Penalty | 2100 DKP (GoD)
+Unapproved Main Change Penalty |4200 DKP (GoD)
 
 ### Unapproved:
 * 80% DKP Charge or 150x BRV whichever is higher, no exceptions. Officer's decision if a new app is required.
@@ -151,7 +151,7 @@ I wanted to thank all of the contributions from various guilds’ DKP systems th
 
 # TL;DR
 * DKP is earned every ½ hour. 
-* BRV is the DKP earned per raid tick. For PoP it is 14 DKP per tick.
+* BRV is the DKP earned per raid tick. For GoD it is 28 DKP per tick.
 * Everyone bids using https://nbn.opendkp.com/#/bid
 * Whoever wins the bid pays +1 over the second highest bid. In the event of a tie you pay the bid amount.
 * All bids are shown after bidding period has ended.
