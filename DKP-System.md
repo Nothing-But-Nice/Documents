@@ -6,7 +6,7 @@ NBN DKP is a structured, closed bid style system. It is a culmination of ideas f
 
 This is an inflationary system where values are based on BRV (Base Raid Value). BRV is the amount of DKP you earn per raid tick. The BRV amount will be increased each expansion in place of decaying current DKP. 
 
-Raid ticks will be taken at the start, every 30 minutes, and the end of a raid on a sanctioned raid night. x1 BRV is given every raid tick. DKP will only be given for raids during normal raid days with the exception of expansion launches. This will be posted in advance. 
+Raid ticks will be taken at the start, every 30 minutes, and the end of a raid on a sanctioned raid night. x1 BRV is given every raid tick. DKP will only be given for raids during posted raid days with the exception of expansion launches. This will be posted in advance. 
 
 
 
@@ -133,7 +133,7 @@ Bonus DKP will be given for special occurrences or at officer discretion. Each b
 Special bonuses of up to x10 BRV may be given for first kills. x15 BRV will be given for expansion final boss clears or special bosses and encounters. 
 
 ## EXPANSION (OR MONTHLY) DKP CAP
-DKP will be reduced to the current expansion cap at the end of the expansion. DKP granted via special bonuses on Discord (not in-raid bonuses) will be retained above the cap. For example: a DKP incentivized item such as (Aid Grimel) Signet of Might or Signet of the Arcane in Planes of Power. These bonuses will be posted in Discord when applicable.
+DKP will be reduced to the current expansion cap at the end of the month & expansion. DKP granted via special bonuses on Discord (not in-raid bonuses) will be retained above the cap. For example: a DKP incentivized item such as (Aid Grimel) Signet of Might or Signet of the Arcane in Planes of Power. These bonuses will be posted in Discord when applicable.
 
 ## Second Main / PALT Policy
 At this time there is no intention to have any kind of Second Main or PALT policy. We intend on growing to around 60+ mains in an effort to alleviate the need to box heavily on raids. As we move forward, this will be evaluated based upon guild health and performance.
@@ -143,7 +143,7 @@ At this time there is no intention to have any kind of Second Main or PALT polic
 * If the system is being abused, the rules will be changed to address this. Individual members may be counseled by officers as well. The goal of this system is for the guild to be successful and not to screw over your own guildmates. We do not expect this to be an issue. 
 * DKP penalties may be given out for general non-compliance or intentional harm caused to the raid. We do not expect this to be an issue.
 * These rules are a guideline. If a situation arises that does not fit this mold, two things will happen: An officer ruling will remedy the situation and the rules will be changed to accommodate the issue.
-* If you have any questions or concerns, please feel free to PM **Barudin**, **Bellan** or **Swan**.
+* If you have any questions or concerns, please feel free to PM **Barudin**, **Mazam** or **Swan**.
 
 
 # A SPECIAL THANKS!
