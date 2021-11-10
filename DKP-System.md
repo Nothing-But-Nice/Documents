@@ -10,14 +10,14 @@ Raid ticks will be taken at the start, every 30 minutes, and the end of a raid o
 
 
 
-BRV (DKP Earned Per Tick)| 28 (GoD)
+BRV (DKP Earned Per Tick)| 28 (OoW)
 --|--
 &nbsp; | **DKP Values**
-**Minimum Bid** | 75
-**Max Main Bid** | 4200
-**Max Bid If <40% RA** | 700
-**Max Bid ALT** | 1400
-**Expansion & Monthly DKP Cap** | 7000
+**Minimum Bid** | 50
+**Max Main Bid** | 7500
+**Max Bid If <40% RA** | 1250
+**Max Bid ALT** | 2500
+**Expansion & Monthly DKP Cap** | 12500
 
 ### Important Notes:
 * <40% 30-Day RA FM: Max Bid is equal to 25x BRV
@@ -146,7 +146,7 @@ I wanted to thank all of the contributions from various guilds’ DKP systems th
 
 # TL;DR
 * DKP is earned every ½ hour. 
-* BRV is the DKP earned per raid tick. For GoD it is 28 DKP per tick.
+* BRV is the DKP earned per raid tick. For OoW it is 50 DKP per tick.
 * Everyone bids using https://nbn.opendkp.com/#/bid
 * Whoever wins the bid pays +1 over the second highest bid. In the event of a tie you pay the bid amount.
 * All bids are shown after bidding period has ended.
