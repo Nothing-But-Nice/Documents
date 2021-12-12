@@ -10,7 +10,7 @@ Raid ticks will be taken at the start, every 30 minutes, and the end of a raid o
 
 
 
-BRV (DKP Earned Per Tick)| 28 (OoW)
+BRV (DKP Earned Per Tick)| 50 (OoW)
 --|--
 &nbsp; | **DKP Values**
 **Minimum Bid** | 50
